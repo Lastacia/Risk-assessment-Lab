@@ -1,5 +1,4 @@
 # Risk Assessment Lab
-<h1>Simply Cyber Risk Assessment</h1>
 
 <h2>Description</h2>
 Semi-quantitatively analyzed cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system.
